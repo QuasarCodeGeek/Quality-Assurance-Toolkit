@@ -177,4 +177,4 @@ When combined with structured techniques such as Boundary Value Analysis, Equiva
 
 ---
 
-**Next:** [Test Metrics Overview →](../test-metrics/test-metrics-overview.md)
+**Next:** [Web Application Testing Checklist →](../10-testing-checklists/web-application-testing-checklist.md)

@@ -161,4 +161,4 @@ By analyzing Defect Leakage over time, teams can identify testing gaps, strength
 
 ---
 
-**Next:** [Test Summary Report →](test-summary-report.md)
+**Next:** [Requirement Types →](../08-requirements-management/requirement-types.md)
