@@ -134,4 +134,4 @@ By identifying usability issues and incorporating user feedback throughout devel
 
 ---
 
-**Next:** [Defect Management →](defect-management.md)
+**Next:** [Defect Management →](../06-defect-management/defect-management.md)

@@ -173,4 +173,4 @@ Accurate execution, thorough documentation, and timely defect reporting enable d
 
 ---
 
-**Next:** [Software Testing Types →](software-testing-types.md)
+**Next:** [Software Testing Types →](../03-software-testing-types/software-testing-types.md)

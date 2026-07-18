@@ -154,4 +154,4 @@ Understanding both concepts enables development and QA teams to make better deci
 
 ---
 
-**Next:** [Test Strategy →](../planning/test-strategy.md)
+**Next:** [Test Strategy →](../02-planning/test-strategy.md)

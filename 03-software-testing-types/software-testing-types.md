@@ -159,4 +159,4 @@ Understanding when and why each testing type is used enables development teams t
 
 ---
 
-**Next:** [Functional Testing →](./functional-tests/functional-testing.md)
+**Next:** [Functional Testing →](functional-testing.md)

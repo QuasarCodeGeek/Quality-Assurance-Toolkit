@@ -125,4 +125,4 @@ By validating these attributes, development teams can deliver software that not 
 
 ---
 
-**Next:** [Performance Testing →](performance-testing.md)
+**Next:** [Performance Testing →](../05-non-functional-testing/performance-testing.md)

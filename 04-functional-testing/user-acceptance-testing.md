@@ -135,4 +135,4 @@ By involving business stakeholders in the final validation process, UAT provides
 
 ---
 
-**Next:** [Non-Functional Testing →](../non-functional-tests/non-functional-testing.md)
+**Next:** [Non-Functional Testing →](../03-software-testing-types/non-functional-testing.md)

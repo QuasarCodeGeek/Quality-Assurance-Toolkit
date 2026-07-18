@@ -143,4 +143,4 @@ By measuring performance before production deployment, development teams can ide
 
 ---
 
-**Next:** [Load Testing →](performance-tests/load-testing.md)
+**Next:** [Load Testing →](load-testing.md)

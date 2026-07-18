@@ -128,4 +128,4 @@ By validating application behavior through structured testing, development teams
 
 ---
 
-**Next:** [Smoke Testing →](smoke-testing.md)
+**Next:** [Smoke Testing →](../04-functional-testing/smoke-testing.md)
